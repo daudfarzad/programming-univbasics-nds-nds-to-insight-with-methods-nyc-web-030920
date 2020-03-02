@@ -7,3 +7,4 @@ def list_of_directors(source)
    end
 
     names
+  end
